@@ -1,11 +1,11 @@
-var main=function(answer) {
-    if (answer = 1) {
+var main=function(vote) {
+    if (vote = 1) {
         console.log("1s")
     }
-    else if (answer = 2) {
+    else if (vote = 2) {
         console.log("2s")
     }
-    else if (answer = 3) {
+    else if (vote = 3) {
         console.log("3s")
     }
     else {
